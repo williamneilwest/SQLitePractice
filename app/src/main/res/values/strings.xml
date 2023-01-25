@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLitePractice</string>
+    <string name="add_new_user_to_database">Add New User to Database...</string>
+    <string name="add_user">Add User</string>
+    <string name="view_users">View Users</string>
+    <string name="remove_user">Remove User</string>
+</resources>

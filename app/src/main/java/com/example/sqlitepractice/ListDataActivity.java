@@ -35,7 +35,7 @@ public class ListDataActivity extends AppCompatActivity {
     }
 
     private void populateListView() {
-        Log.d(TAG, "populateListView: Displaying data i nthe ListView.");
+        Log.d(TAG, "populateListView: Displaying data in the ListView.");
 
         Cursor data = mDatabaseHelper.getData();
         ArrayList<String> listData = new ArrayList<>();
